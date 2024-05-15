@@ -16,6 +16,8 @@
     <module>guli-order</module>
     <module>guli-coupon</module>
     <module>guli-ware</module>
+    <module>renren-fast</module>
+    <module>renren-fast-vue</module>
   </modules>
 
 </project>
